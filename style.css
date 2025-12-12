@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Asimovian&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Mountains+of+Christmas:wght@400;700&family=Raleway:ital,wght@0,100..900;1,100..900&family=TASA+Explorer:wght@400..800&display=swap');
+
+body {
+    background-color: red;
+    margin: 0;
+}
+
+footer {
+    background-color: rgb(131, 0, 0);
+    width: 100vw;
+    height: 8vh;
+    position: absolute;
+    margin-top: 92vh;
+}
+
+.dikt-sidmeny {
+    width: 30vw;
+    height: 92vh;
+    background-color: rgb(30, 255, 0);
+    position: absolute;
+    margin-left: 70%;
+}
+
+.dikt-sidmeny h1 {
+    position: relative;
+    width: 100%;
+    font-size: 3vw;
+    text-align: center;
+    font-family: "Mountains of Christmas";
+}
+
+.dikt-sidmeny p {
+    position: relative;
+    width: 100%;
+    font-size: 1.7vw;
+    text-align: center;
+    font-family: "Mountains of Christmas";
+}
+
+.img {
+    
+}
